@@ -57,7 +57,7 @@
 			"alignment": "column_bottom",
 			"action": {
 				"type": "openLink",
-				"link": "https://discord.gg/EXshrPV"
+				"link": "https://discord.gg/gtnh"
 			}
 		},
 		"github": {
@@ -216,6 +216,13 @@
 		},
 		"aviators": {
 			"text": "menu.gtnh.aviators",
+			"posX": 155,
+			"posY": -35,
+			"fontSize": 0.5,
+			"alignment": "column_bottom"
+		},
+		"sol": {
+			"text": "menu.gtnh.sol",
 			"posX": 155,
 			"posY": -30,
 			"fontSize": 0.5,
